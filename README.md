@@ -25,3 +25,7 @@ lcd_api.py and pico_i2c_lcd.py are mandatory co-existing files.
 # 20x4 LCD Display
 
 ![Screen Shot 2023-03-27 at 5 16 23 PM 13](https://user-images.githubusercontent.com/87240174/233153513-72df9331-2981-4a2f-b6f3-5855f295d73e.jpg)
+
+# Passive Buzzer + Push Button + LED
+
+![Screen Shot 2023-03-27 at 5 16 23 PM 14](https://user-images.githubusercontent.com/87240174/233186262-38d13717-1f96-482d-a982-cfe62a2afa80.jpg)
