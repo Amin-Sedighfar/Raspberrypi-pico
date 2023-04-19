@@ -21,3 +21,7 @@ lcd_api.py and pico_i2c_lcd.py are mandatory co-existing files.
 ![Screen Shot 2023-03-27 at 5 16 23 PM 12](https://user-images.githubusercontent.com/87240174/232972652-7660b889-7dca-4ebb-b03f-bc949c65da81.jpg)
 
 ![IMG_1214 Large](https://user-images.githubusercontent.com/87240174/233116620-ee2f9a0e-af0c-46c0-a2ec-c0bc7632b5d8.jpeg)
+
+# 20x4 LCD Display
+
+![Screen Shot 2023-03-27 at 5 16 23 PM 13](https://user-images.githubusercontent.com/87240174/233153513-72df9331-2981-4a2f-b6f3-5855f295d73e.jpg)
