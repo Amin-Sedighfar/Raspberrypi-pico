@@ -16,7 +16,6 @@ lcd_api.py and gpio_lcd.py are mandatory co-existing files.
 ![Screen Shot 2023-03-27 at 5 16 23 PM 11](https://user-images.githubusercontent.com/87240174/232972611-e44879ec-a08d-44f9-ba8e-814996be8633.jpg)
 
 # 1602 I2C LCD Display
-
 lcd_api.py and pico_i2c_lcd.py are mandatory co-existing files.
 
 ![Screen Shot 2023-03-27 at 5 16 23 PM 12](https://user-images.githubusercontent.com/87240174/232972652-7660b889-7dca-4ebb-b03f-bc949c65da81.jpg)
