@@ -29,3 +29,12 @@ lcd_api.py and pico_i2c_lcd.py are mandatory co-existing files.
 # Passive Buzzer + Push Button + LED
 
 ![Screen Shot 2023-03-27 at 5 16 23 PM 14](https://user-images.githubusercontent.com/87240174/233186262-38d13717-1f96-482d-a982-cfe62a2afa80.jpg)
+
+# Voice Sampling
+
+![Screen Shot 2023-03-27 at 5 16 23 PM 15](https://user-images.githubusercontent.com/87240174/233384611-46b0d0cd-aaa6-40da-995e-a3a22def54c2.jpg)
+
+# Clap/Snap
+
+![Screen Shot 2023-03-27 at 5 16 23 PM 16](https://user-images.githubusercontent.com/87240174/233384716-e1226433-299b-4e40-a563-942d0d9ddd2d.jpg)
+
