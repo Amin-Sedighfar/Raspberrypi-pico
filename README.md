@@ -38,3 +38,8 @@ lcd_api.py and pico_i2c_lcd.py are mandatory co-existing files.
 
 ![Screen Shot 2023-03-27 at 5 16 23 PM 16](https://user-images.githubusercontent.com/87240174/233384716-e1226433-299b-4e40-a563-942d0d9ddd2d.jpg)
 
+# RaspberryPi Pico + ESP01 + BME680
+
+![Newimage](https://user-images.githubusercontent.com/87240174/233528520-35955ac1-c36c-4de0-8851-e49df7c914ec.jpg)
+
+
